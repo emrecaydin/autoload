@@ -1,0 +1,10 @@
+{
+    "name": "emre/autoload",
+    "authors": [
+        {
+            "name": "emrecaydin",
+            "email": "emrecaydin00@gmail.com"
+        }
+    ],
+    "require": {}
+}
